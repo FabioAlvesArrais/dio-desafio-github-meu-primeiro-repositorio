@@ -1,0 +1,7 @@
+anotações relevates ao git/github
+
+link de download do git
+
+https://git-scm.com/downloads
+
+O Git bash é um terminal extendido para otimizar o uso do git
